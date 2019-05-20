@@ -1,0 +1,23 @@
+= Inducción al uso de Python
+
+_Tecnológico de Monterrey. 30 y 31 de mayo de 2019._
+
+Este repositorio contiene todos los archivos fuente que el instructor haya generado durante el curso de *Inducción al uso de Python para las unidades de formación Tc1027 y Tc1028* de los nuevos planes de estudio del Modelo Tec21.
+
+Los archivos se pueden consultar directamente en este mismo sitio, o se puede usar `git` para obtener una copia local de éstos. En este último caso se deben seguir los siguiente pasos:
+
+1. Si es necesario, http://git-scm.com/downloads[instalar un cliente git] en la computadora local.
+
+2. Clonar este repositorio. Desde la terminal teclear:
+    
+    git clone https://github.com/ariel-ortiz/python_mty_2019
+    
+3. Cambiarse al directorio `python_mty_2019`:
+    
+    cd python_mty_2019
++    
+En dicho directorio se encontrarán todos los archivos fuente del repositorio.
+    
+4. Cada vez que el instructor realice modificaciones a archivos existentes o agregue archivos nuevos, será necesario hacer un *pull* al repositorio. En la terminal y desde el directorio `python_mty_2019` teclear: 
+    
+    git pull
